@@ -23,9 +23,9 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mastodon, icon: mastodon, url: "https://infosec.exchange/@CableDog_Rick"}
-  - {title: Twitter, icon: fa-twitter, url: "https://x.com/CableDog_Rick"}
-  - {title: Github, icon: github, url: "https://github.com/richard-ibrahim"}
+  - {title: Mastodon, sidebaricon: mastodon, url: "https://infosec.exchange/@CableDog_Rick"}
+  - {title: Twitter, sidebaricon: twitter, url: "https://x.com/CableDog_Rick"}
+  - {title: Github, sidebaricon: github, url: "https://github.com/richard-ibrahim"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
   - {title: Challange Homepage, icon: link, url: "https://100daysofhomelab.com/"}
 
