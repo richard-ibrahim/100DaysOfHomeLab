@@ -36,4 +36,4 @@ By the end of these 100 days, I expect to have a more robust skill set in these 
 
 This blog site is hosted on **GitHub Pages**, created using the **Jekyll** static website tool. It utilizes the **Contrast** theme, developed by [Niklas Buschmann](https://niklasbuschmann.github.io/contrast/).
 
-You can follow my journey throughout the challenge at my blog: [Richard's 100 Days of Homelab](https://richard-ibrahim.github.io/100DaysOfHomeLab/). Join me as I embark on this rewarding challenge!
+You can follow my journey throughout the challenge at my blog: [Richard's 100 Days of Homelab]([https://richard-ibrahim.github.io/100DaysOfHomeLab/](https://cabledog-rick.github.io/100DaysOfHomeLab/). Join me as I embark on this rewarding challenge!
